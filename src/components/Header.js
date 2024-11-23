@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "C:/Users/shrekar reddy/Desktop/portfolio-starter/src/components/profile.png";
+
 
 const Header = () => {
   return (
