@@ -121,7 +121,7 @@ const Header = () => {
               height="320"
               decoding="async"
               className="object-cover h-40 w-40 lg:h-52 lg:w-52 group-hover:scale-110 transition duration-700 ease-in-out bg-black"
-              src={profile}
+              src="/profile.jpg"
             />
           </div>
         </div>
