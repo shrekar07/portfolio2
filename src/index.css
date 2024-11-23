@@ -21,7 +21,7 @@
     #b936ee 100%,
     #ff56f6 117.04%
   );
-}
+}  
 
 .gradient,
 .active {
@@ -35,10 +35,11 @@
 }
 
 .active {
-  color: #fff;
+  color: black;
   padding: 1rem;
   border-radius: 100%;
 }
+
 
 @layer base {
   body {
